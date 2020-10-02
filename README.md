@@ -7,7 +7,7 @@ This module is the build process for the PULP SDK. It can be used to do everythi
 
 There are several ways of building the SDK, depending on how the dependencies are managed:
 
- - Section *SDK build with independant dependencies build* shows how to compile the SDK and the dependencies separately. This is the simplest way of building the SDK and should be the one used by default.
+ - Section *Standard SDK Build* shows how to compile the SDK and the dependencies separately. This is the simplest way of building the SDK and should be the one used by default.
  - Section *SDK build with dependencies download* shows how to download precompiled packages for the dependencies and then build the SDK using these precompiled packages. This will only work if you have access to the package server.
  - Section *SDK release download* shows how to download everything as precompiled releases. This will only work if you have access to the package server.
 
